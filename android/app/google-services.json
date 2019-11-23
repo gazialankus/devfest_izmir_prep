@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650891459525",
+    "firebase_url": "https://remove-me-f2025.firebaseio.com",
+    "project_id": "remove-me-f2025",
+    "storage_bucket": "remove-me-f2025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650891459525:android:8d68cb75ec37bdbb56e9ac",
+        "android_client_info": {
+          "package_name": "com.example.devfest_izmir_prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650891459525-b2m6qp8djvadqepld0m0h1tcmlv4rkih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devfest_izmir_prep",
+            "certificate_hash": "9cde3595f0050284302bdb71eee2f08ed4c60d54"
+          }
+        },
+        {
+          "client_id": "650891459525-5mgsc3gp80vhj32oge9njnumqb136ee7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5omTbiArJNAobdYXn0I4ZXs0AlInpXxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650891459525-5mgsc3gp80vhj32oge9njnumqb136ee7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
